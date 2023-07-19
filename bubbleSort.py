@@ -12,7 +12,6 @@ def main():
     print('List after bubble sort ASC: ', bubbleSort_ASC(list))
     print('List after bubble sort DESC: ', bubbleSort_DESC(list))
 
-
 def bubbleSort_ASC(list):
     isSorted = False
     while not isSorted:
